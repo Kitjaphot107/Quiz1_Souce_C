@@ -1,3 +1,4 @@
+//ฟังก์ชั่น//
 #include<stdio.h>
 
 void main(){

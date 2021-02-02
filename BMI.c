@@ -1,3 +1,4 @@
+//ดัชนีมวลกาย//
 #include<stdio.h>
 int main(){
         float weight,height,calbmi;
